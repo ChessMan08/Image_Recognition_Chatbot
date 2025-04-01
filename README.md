@@ -1,7 +1,5 @@
 # Advanced Image Recognition Chatbot
 
-## Note: The project is not fully updated due to ongoing Smart India Hackathon (SIH).
-
 ## Overview
 
 This project features an advanced image recognition chatbot designed to identify objects within images and provide accurate, context-based responses to user queries. The chatbot integrates technologies like Vision Transformer (ViT) for image recognition and Natural Language Processing (NLP) to enable seamless, human-like interactions.
